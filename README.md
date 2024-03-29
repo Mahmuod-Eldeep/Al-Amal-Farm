@@ -9,4 +9,5 @@
 
 ## Built with Rami Nawahda
 
-- Front-End repo: [https://github.com/Mahmuod-Eldeep/Al-Amal-Farm](https://github.com/Mahmuod-Eldeep/Al-Amal-Farm)
+- Front-End repo: [https://github.com/raminawahda7/Al-Amal-Farm-Angular/blob/main/README.md]
+-  link for presentation:[https://docs.google.com/presentation/d/1fyAdaPozOHFxn7evnMwlSeCZdszVoQj3CDATaKJ7G-4/edit#slide=id.g2bd619d2532_0_16254]
